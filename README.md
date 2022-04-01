@@ -3,7 +3,8 @@ We were tasked with finding out the number of retiring employees by title and wh
 
 ## Results:
  
-Some things that had were glaringly issues was the eligible mentors and the fact they dont equate to the amount of retiring people. ![Mentors_available](https://github.com/Cyber-Wolfe/HP_Employee_Analysis/blob/main/Screenshots/Mentors_available.PNG)
+Some things that were glaringly obvious issues was the eligible mentors and the fact they dont equate to the amount of retiring people. The mentor row stops at the 10,095 mark and yet looking at all the titles retiring we have 7 times that retiring.
+![Mentors_available](https://github.com/Cyber-Wolfe/HP_Employee_Analysis/blob/main/Screenshots/Mentors_available.PNG)
 ![retiring titles](https://github.com/Cyber-Wolfe/HP_Employee_Analysis/blob/main/Screenshots/retiring%20titles.PNG)
 
 * A total of 72,458 people are retiring 
