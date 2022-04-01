@@ -3,7 +3,8 @@ We were tasked with finding out the number of retiring employees by title and wh
 
 ## Results:
  
-Some things that had were glaringly issues was the eligible mentors and the fact they dont equate to the amount of retiring people. [ 2 screenshots here]
+Some things that had were glaringly issues was the eligible mentors and the fact they dont equate to the amount of retiring people. ![Mentors_available](https://github.com/Cyber-Wolfe/HP_Employee_Analysis/blob/main/Screenshots/Mentors_available.PNG)
+![retiring titles](https://github.com/Cyber-Wolfe/HP_Employee_Analysis/blob/main/Screenshots/retiring%20titles.PNG)
 
 * A total of 72,458 people are retiring 
 
@@ -13,7 +14,7 @@ Some things that had were glaringly issues was the eligible mentors and the fact
 
 * Mentors would need to take on entire classrooms of people in order to get new employees up to speed
 
-##Summary
+## Summary
 
 The silver tsunami that hits HP will wash away a little more than 72,000 employees in the coming years.  This is a significant impact to the work force of the company especially seeing as how the roles being impacted have significant weigt in the company. 18,110 Engineers, 16,370 Senior Staff, 16,193 Staff, and 15,839 Senior Engineers is a large hit to the company. Not to mention 3602 Technique Leaders and 2342 Assistant Engineers along with 2 managers. Almost all of these roles will need to be filled in the time after that tsunami hits.
 
