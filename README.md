@@ -13,7 +13,7 @@ Some things that were glaringly obvious issues was the eligible mentors and the 
 
 * A significant loss of engineers, senior staff, and combinations of the two will results in a large gap to fill even with the available mentors
 
-* Mentors would need to take on entire classrooms of people in order to get new employees up to speed
+* Mentors would be overwhelmed and get none of their personal responbiblites accomplished with the amount of mentoring they must accomplish.
 
 ## Summary
 
